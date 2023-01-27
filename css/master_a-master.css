@@ -1,0 +1,76 @@
+#menuu8549 {
+    border-color: transparent;
+    border-width: 0px;
+    background-color: transparent;
+}
+
+#u8565:hover #u8567-4 p, #u8551:hover #u8553-4 p, #u8560:hover #u8561-4 p, #u8593:hover #u8596-4 p, #u8581:hover #u8582-4 p, #u8586:hover #u8589-4 p {
+    visibility: inherit;
+    color: #000000;
+}
+
+#u8574 {
+    border-color: #565656;
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: transparent;
+    border-style: solid;
+}
+
+#u8574:hover {
+    background-color: #565656;
+}
+
+#u8567-4, #u8553-4, #u8561-4, #u8596-4, #u8582-4, #u8589-4, #u8576-4 {
+    border-color: transparent;
+    color: #565656;
+    font-weight: 700;
+    font-family: pt-sans, sans-serif;
+    text-align: center;
+    line-height: 18px;
+    border-width: 0px;
+    font-size: 15px;
+    background-color: transparent;
+}
+
+#u8574:hover #u8576-4 p {
+    visibility: inherit;
+    color: #FFFFFF;
+}
+
+#u8565.MuseMenuActive #u8567-4 p, #u8551.MuseMenuActive #u8553-4 p, #u8560.MuseMenuActive #u8561-4 p, #u8593.MuseMenuActive #u8596-4 p, #u8581.MuseMenuActive #u8582-4 p, #u8586.MuseMenuActive #u8589-4 p, #u8574.MuseMenuActive #u8576-4 p {
+    visibility: inherit;
+    color: #565656;
+}
+
+.MenuItem {
+    cursor: pointer;
+}
+
+#u9387 {
+    background-color: #282828;
+}
+
+#u9388-4 {
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: pt-sans, sans-serif;
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+#u9391-4 {
+    line-height: 22px;
+    color: #FFFFFF;
+    font-family: pt-sans, sans-serif;
+    text-align: left;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: transparent;
+}
+
+#u8564, #u8565, #u8550, #u8551, #u8557, #u8560, #u8592, #u8593, #u8578, #u8581, #u8585, #u8586, #u8571, #u8574.MuseMenuActive, #u9389 {
+    background-color: transparent;
+}

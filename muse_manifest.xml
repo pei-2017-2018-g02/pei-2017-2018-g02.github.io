@@ -1,0 +1,258 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="playingtable.com" resolutions="1x" timestamp="1528747001802">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="453022694" ref="index"/>
+    <file name="nomq_index.css" crc="190498961" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="master_a-master.css" crc="3833161724" ref="about:index:scenarios:milestones:architecture:manual"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:index:scenarios:milestones:architecture:manual"/>
+    <file name="about.css" crc="3968862313" ref="about"/>
+    <file name="nomq_about.css" crc="59282594" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="scenarios.css" crc="333674284" ref="scenarios"/>
+    <file name="nomq_scenarios.css" crc="4191748519" ref="scenarios"/>
+    <file name="iefonts_scenarios.css" crc="3824530138" ref="scenarios"/>
+    <file name="milestones.css" crc="3839498883" ref="milestones"/>
+    <file name="nomq_milestones.css" crc="15314599" ref="milestones"/>
+    <file name="iefonts_milestones.css" crc="3824530138" ref="milestones"/>
+    <file name="architecture.css" crc="4027951190" ref="architecture"/>
+    <file name="nomq_architecture.css" crc="4033281572" ref="architecture"/>
+    <file name="iefonts_architecture.css" crc="3824530138" ref="architecture"/>
+    <file name="manual.css" crc="470582911" ref="manual"/>
+    <file name="nomq_manual.css" crc="355988979" ref="manual"/>
+    <file name="iefonts_manual.css" crc="3824530138" ref="manual"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="require.js" crc="4157109226" ref="index:scenarios:architecture:manual:milestones:about"/>
+  </folder>
+  <folder name="images">
+    <file name="cen5.png" crc="4114402772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-chart.svg" crc="161637186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-chart_poster_.png" crc="417018560" ref="index"/>
+    <file name="5.jpg" crc="4102591172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="4191698025" seo="true" ref="index:manual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+    </file>
+    <file name="6.png" crc="4050831884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-touch_c.svg" crc="4052060606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-touch_c_poster_.png" crc="229827392" ref="index"/>
+    <file name="002-speaker_c.svg" crc="4125080578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-speaker_c_poster_.png" crc="496413396" ref="index"/>
+    <file name="003-games_c.svg" crc="3907994174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-games_c_poster_.png" crc="496480474" ref="index"/>
+    <file name="004-lights_c.svg" crc="95877167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004-lights_c_poster_.png" crc="4180662172" ref="index"/>
+    <file name="005-music_c.svg" crc="4139102440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-music_c_poster_.png" crc="229775540" ref="index"/>
+    <file name="rasp.svg" crc="4222056408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rasp_poster_.png" crc="383369519" ref="index"/>
+    <file name="lack.svg" crc="163087721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lack_poster_.png" crc="268848455" ref="index"/>
+    <file name="neo.svg" crc="114477469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neo_poster_.png" crc="324792489" ref="index"/>
+    <file name="amp.svg" crc="210926296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amp_poster_.png" crc="8936476" ref="index"/>
+    <file name="bone.svg" crc="296723881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bone_poster_.png" crc="334288052" ref="index"/>
+    <file name="piezo.svg" crc="4095914669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piezo_poster_.png" crc="103298001" ref="index"/>
+    <file name="cen5-crop-u2328.png" crc="12533353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cen5-crop-u23282.png" crc="12533353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:scenarios:architecture:manual:milestones:about"/>
+    <file name="danger.svg" crc="485610992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="danger_poster_.png" crc="4015571133" ref="index"/>
+    <file name="arch1.jpg" crc="3786801438" seo="true" ref="architecture">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+    </file>
+    <file name="arch2.png" crc="4078587819" seo="true" ref="architecture">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+    </file>
+    <file name="foto3.jpg" crc="37353702" seo="true" ref="about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto4.jpg" crc="241464493" seo="true" ref="about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto6.jpg" crc="130105774" seo="true" ref="about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="untitled.png" crc="414997794" seo="true" ref="index:scenarios:architecture:manual:milestones:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="scenarios" alt=""/>
+      <caption webpage="scenarios" alt=""/>
+      <caption webpage="scenarios" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="architecture" alt=""/>
+      <caption webpage="milestones" alt=""/>
+      <caption webpage="milestones" alt=""/>
+      <caption webpage="milestones" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+    </file>
+    <file name="foto1-crop-u18370.png" crc="4183858042" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto2-crop-u18372.png" crc="4279600587" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto5-crop-u18378.png" crc="4160724896" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto1-crop-u183702.png" crc="4183858042" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto2-crop-u183722.png" crc="4279600587" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto5-crop-u183782.png" crc="4160724896" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto1-crop-u183703.png" crc="4183858042" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto2-crop-u183723.png" crc="4279600587" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="foto5-crop-u183783.png" crc="4160724896" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="1.png" crc="39099250" seo="true" ref="manual">
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+    </file>
+    <file name="2.png" crc="4216405241" seo="true" ref="manual">
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+    </file>
+    <file name="4.png" crc="3873810923" seo="true" ref="manual">
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+      <caption webpage="manual" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="284095222" seo="true" mt="1528744482173" redirect="true"/>
+
+  <file name="architecture.html" crc="107788947" seo="true" mt="1528744306131" redirect="true"/>
+  <file name="manual.html" crc="4221026104" seo="true" mt="1528746993866" redirect="true"/>
+  <file name="milestones.html" crc="4050867592" seo="true" mt="1528745851477" redirect="true"/>
+  <file name="about.html" crc="85114344" seo="true" mt="1528744306131" redirect="true"/>
+</manifest>
